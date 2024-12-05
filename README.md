@@ -1,9 +1,9 @@
 <!-- Initialized : Sun 20 Aug 2023 03∶41∶08 PM IST  -->
 <h1 align="center">
 
-  <a href="https://github.com/devwithsahadat/Mr.Prince-Your-Newtab/blob/main/icon.png"><img src="https://i.ibb.co/x11pGSs/icon-128.png" width="50"></a>
+  <a href="https://github.com/devwithsahadat/Mr.Prince-Your-Newtab/blob/main/icon.png"><img src="https://ibb.co.com/zZ3dPMC" width="50"></a>
   <br>
-  Material You NewTab
+  Mr.Prince Your NewTab
 
 </h1>
 <div align="center">
@@ -13,19 +13,16 @@ Mr.Prince Your NewTab is a versatile browser extension that personalizes your Ne
 </div>
 
 
+<div align="center">
 
-<p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#%EF%B8%8F-additional-features">Additional Features</a> •
-  <a href="#-currently-supported-languages-16">Currently Supported Languages</a> •
-  <a href="#-installation-guide">Installation Guide</a>
-<br>
-  <a href="#--usage">Usage</a> •
-  <a href="#-contributing">Contributing</a> •
-  <a href="#-issues-and-support">Issues and Support</a> •
-  <a href="#-privacy-policy">Privacy Policy</a> •
-  <a href="#-license">License</a>
-</p>
+![License](https://img.shields.io/github/license/XengShi/materialYouNewTab)
+![Last Commit](https://img.shields.io/github/last-commit/XengShi/materialYouNewTab)
+![GitHub contributors](https://img.shields.io/github/contributors/XengShi/materialYouNewTab)
+![GitHub stars](https://img.shields.io/github/stars/XengShi/materialYouNewTab)
+![GitHub forks](https://img.shields.io/github/forks/XengShi/materialYouNewTab)
+
+</div>
+
 
 <img src="https://i.postimg.cc/M6V8cBZc/Screenshot-from-2024-10-10-20-18-36.png" alt="Screenshot 1" width="100%">
 <table>
