@@ -15,11 +15,11 @@ Mr.Prince Your NewTab is a versatile browser extension that personalizes your Ne
 
 <div align="center">
 
-![License](https://img.shields.io/github/license/XengShi/materialYouNewTab)
-![Last Commit](https://img.shields.io/github/last-commit/XengShi/materialYouNewTab)
-![GitHub contributors](https://img.shields.io/github/contributors/XengShi/materialYouNewTab)
-![GitHub stars](https://img.shields.io/github/stars/XengShi/materialYouNewTab)
-![GitHub forks](https://img.shields.io/github/forks/XengShi/materialYouNewTab)
+![License](https://img.shields.io/github/license/devwithsahadat/Mr.Prince-Your-Newtab)
+![Last Commit](https://img.shields.io/github/last-commit/devwithsahadat/Mr.Prince-Your-Newtab)
+![GitHub contributors](https://img.shields.io/github/contributors/devwithsahadat/Mr.Prince-Your-Newtab)
+![GitHub stars](https://img.shields.io/github/stars/devwithsahadat/Mr.Prince-Your-Newtab)
+![GitHub forks](https://img.shields.io/github/forks/devwithsahadat/Mr.Prince-Your-Newtab)
 
 </div>
 
