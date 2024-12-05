@@ -1,26 +1,18 @@
 <!-- Initialized : Sun 20 Aug 2023 03∶41∶08 PM IST  -->
 <h1 align="center">
 
-  <a href="https://xengshi.github.io/materialYouNewTab/"><img src="https://i.ibb.co/x11pGSs/icon-128.png" width="50"></a>
+  <a href="https://github.com/devwithsahadat/Mr.Prince-Your-Newtab/blob/main/icon.png"><img src="https://i.ibb.co/x11pGSs/icon-128.png" width="50"></a>
   <br>
   Material You NewTab
 
 </h1>
 <div align="center">
 
-Material You NewTab is a versatile browser extension that personalizes your New Tab page with customizable themes and a welcoming message, all while integrating seamlessly with your preferred search engine.
+Mr.Prince Your NewTab is a versatile browser extension that personalizes your New Tab page with customizable themes and a welcoming message, all while integrating seamlessly with your preferred search engine.
 
 </div>
 
-<div align="center">
 
-![License](https://img.shields.io/github/license/XengShi/materialYouNewTab)
-![Last Commit](https://img.shields.io/github/last-commit/XengShi/materialYouNewTab)
-![GitHub contributors](https://img.shields.io/github/contributors/XengShi/materialYouNewTab)
-![GitHub stars](https://img.shields.io/github/stars/XengShi/materialYouNewTab)
-![GitHub forks](https://img.shields.io/github/forks/XengShi/materialYouNewTab)
-
-</div>
 
 <p align="center">
   <a href="#-features">Features</a> •
@@ -62,8 +54,6 @@ Material You NewTab is a versatile browser extension that personalizes your New 
     <td><img src="https://i.ibb.co/Y82qCMB/Screenshot-from-2024-11-10-20-58-20.png" alt="Screenshot 7" width="100%"></td>
   </tr>
 </table>
-
-#### 🔴 🟡 🟢 Test live : https://xengshi.github.io/materialYouNewTab/
 
 ## ✨ Features
 
@@ -111,7 +101,7 @@ Material You NewTab is a versatile browser extension that personalizes your New 
    ```
    - Alternatively, download the latest version as a ZIP file by clicking the **Download ZIP** button below:
 
-   [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg)](https://github.com/XengShi/materialYouNewTab/releases)
+   [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg)](https://github.com/devwithsahadat/Mr.Prince-Your-Newtab)
 
 2. **Direct Download**:
    - On the repository page, click the **Code** button, then select **Download ZIP** from the dropdown.
